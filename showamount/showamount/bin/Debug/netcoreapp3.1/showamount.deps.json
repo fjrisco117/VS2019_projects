@@ -1,0 +1,103 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "showamount/1.0.0": {
+        "dependencies": {
+          "Recurly": "3.3.0",
+          "recurly-api-client": "1.17.0"
+        },
+        "runtime": {
+          "showamount.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      },
+      "Recurly/3.3.0": {
+        "dependencies": {
+          "RestSharp.Newtonsoft.Json": "1.5.1",
+          "RestSharp": "106.6.10"
+        },
+        "runtime": {
+          "lib/netcoreapp2.2/Recurly.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.0.0"
+          }
+        }
+      },
+      "recurly-api-client/1.17.0": {},
+      "RestSharp/106.6.10": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.6.10.0",
+            "fileVersion": "106.6.10.0"
+          }
+        }
+      },
+      "RestSharp.Newtonsoft.Json/1.5.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "RestSharp": "106.6.10"
+        },
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.Serializers.Newtonsoft.Json.dll": {
+            "assemblyVersion": "1.5.1.0",
+            "fileVersion": "1.5.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "showamount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "Recurly/3.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qC+VVqq9ckQblp1vW2MJKZd1Fu9OMspxY5QLUqWsvBOiELwt/gNXscj6ff2/JvMF9PTv/KE6q2Xsyq4jr9JcIA==",
+      "path": "recurly/3.3.0",
+      "hashPath": "recurly.3.3.0.nupkg.sha512"
+    },
+    "recurly-api-client/1.17.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gWLD6u3P6w2+7N+P95H/q8W+XHbNHQk4xWa0JzBRZ4VOg/D7jbjIUHkb+chcjAFuX6gV9/06T+T+avp3fx+qpA==",
+      "path": "recurly-api-client/1.17.0",
+      "hashPath": "recurly-api-client.1.17.0.nupkg.sha512"
+    },
+    "RestSharp/106.6.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x1FM32hjnVOIn+DKtCs2Y4Q2DCUE5KW08NUXUd4GjgKjE+5PE0F6e9XfUg7nILo05M0TA/HRkRD/SeQ8+duOUA==",
+      "path": "restsharp/106.6.10",
+      "hashPath": "restsharp.106.6.10.nupkg.sha512"
+    },
+    "RestSharp.Newtonsoft.Json/1.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vQaByN85aGazf45Xfseu+/8PmTuOyngqSXr+jILFYZxr51NARQ4WAyVruJAVzfpFkqXQ9aQtw2+yaygyGafjYg==",
+      "path": "restsharp.newtonsoft.json/1.5.1",
+      "hashPath": "restsharp.newtonsoft.json.1.5.1.nupkg.sha512"
+    }
+  }
+}

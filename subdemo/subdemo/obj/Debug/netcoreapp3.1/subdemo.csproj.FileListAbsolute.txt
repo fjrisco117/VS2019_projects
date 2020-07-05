@@ -1,0 +1,16 @@
+C:\Users\FJ\source\repos\subdemo\subdemo\bin\Debug\netcoreapp3.1\subdemo.exe
+C:\Users\FJ\source\repos\subdemo\subdemo\obj\Debug\netcoreapp3.1\subdemo.AssemblyInfoInputs.cache
+C:\Users\FJ\source\repos\subdemo\subdemo\obj\Debug\netcoreapp3.1\subdemo.AssemblyInfo.cs
+C:\Users\FJ\source\repos\subdemo\subdemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FJ\source\repos\subdemo\subdemo\bin\Debug\netcoreapp3.1\Recurly.dll
+C:\Users\FJ\source\repos\subdemo\subdemo\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\FJ\source\repos\subdemo\subdemo\bin\Debug\netcoreapp3.1\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\FJ\source\repos\subdemo\subdemo\obj\Debug\netcoreapp3.1\subdemo.csprojAssemblyReference.cache
+C:\Users\FJ\source\repos\subdemo\subdemo\obj\Debug\netcoreapp3.1\subdemo.csproj.CopyComplete
+C:\Users\FJ\source\repos\subdemo\subdemo\bin\Debug\netcoreapp3.1\subdemo.deps.json
+C:\Users\FJ\source\repos\subdemo\subdemo\bin\Debug\netcoreapp3.1\subdemo.runtimeconfig.json
+C:\Users\FJ\source\repos\subdemo\subdemo\bin\Debug\netcoreapp3.1\subdemo.runtimeconfig.dev.json
+C:\Users\FJ\source\repos\subdemo\subdemo\bin\Debug\netcoreapp3.1\subdemo.dll
+C:\Users\FJ\source\repos\subdemo\subdemo\bin\Debug\netcoreapp3.1\subdemo.pdb
+C:\Users\FJ\source\repos\subdemo\subdemo\obj\Debug\netcoreapp3.1\subdemo.dll
+C:\Users\FJ\source\repos\subdemo\subdemo\obj\Debug\netcoreapp3.1\subdemo.pdb

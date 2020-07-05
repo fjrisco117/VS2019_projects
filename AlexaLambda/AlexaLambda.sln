@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlexaLambda", "AlexaLambda\AlexaLambda.csproj", "{EEFEEA3E-79EB-445F-A66D-71257C9C06DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEFEEA3E-79EB-445F-A66D-71257C9C06DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFEEA3E-79EB-445F-A66D-71257C9C06DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFEEA3E-79EB-445F-A66D-71257C9C06DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFEEA3E-79EB-445F-A66D-71257C9C06DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD49D527-A8C0-4B63-B6A8-2AC45736D5B0}
+	EndGlobalSection
+EndGlobal

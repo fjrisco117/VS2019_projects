@@ -1,0 +1,7 @@
+﻿  AllegroHello.vcxproj -> C:\Users\FJ\source\repos\AllegroHello\Debug\AllegroHello.exe
+C:\Users\FJ\source\repos\AllegroHello\packages\Allegro.5.2.5.1\build\native\Allegro.targets(255,5): error MSB3030: Could not copy the file "allegro_color-5.2.dll" because it was not found.
+C:\Users\FJ\source\repos\AllegroHello\packages\Allegro.5.2.5.1\build\native\Allegro.targets(255,5): error MSB3030: Could not copy the file "allegro_font-5.2.dll" because it was not found.
+C:\Users\FJ\source\repos\AllegroHello\packages\Allegro.5.2.5.1\build\native\Allegro.targets(255,5): error MSB3030: Could not copy the file "allegro_ttf-5.2.dll" because it was not found.
+C:\Users\FJ\source\repos\AllegroHello\packages\Allegro.5.2.5.1\build\native\Allegro.targets(255,5): error MSB3030: Could not copy the file "allegro_video-5.2.dll" because it was not found.
+C:\Users\FJ\source\repos\AllegroHello\packages\Allegro.5.2.5.1\build\native\Allegro.targets(255,5): error MSB3030: Could not copy the file "allegro_primitives-5.2.dll" because it was not found.
+C:\Users\FJ\source\repos\AllegroHello\packages\Allegro.5.2.5.1\build\native\Allegro.targets(255,5): error MSB3030: Could not copy the file "allegro-5.2.dll" because it was not found.

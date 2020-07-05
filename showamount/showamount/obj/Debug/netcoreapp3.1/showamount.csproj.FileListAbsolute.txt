@@ -1,0 +1,16 @@
+C:\Users\FJ\source\repos\showamount\showamount\bin\Debug\netcoreapp3.1\showamount.exe
+C:\Users\FJ\source\repos\showamount\showamount\obj\Debug\netcoreapp3.1\showamount.AssemblyInfoInputs.cache
+C:\Users\FJ\source\repos\showamount\showamount\obj\Debug\netcoreapp3.1\showamount.AssemblyInfo.cs
+C:\Users\FJ\source\repos\showamount\showamount\bin\Debug\netcoreapp3.1\Recurly.dll
+C:\Users\FJ\source\repos\showamount\showamount\obj\Debug\netcoreapp3.1\showamount.csprojAssemblyReference.cache
+C:\Users\FJ\source\repos\showamount\showamount\obj\Debug\netcoreapp3.1\showamount.csproj.CopyComplete
+C:\Users\FJ\source\repos\showamount\showamount\bin\Debug\netcoreapp3.1\showamount.deps.json
+C:\Users\FJ\source\repos\showamount\showamount\bin\Debug\netcoreapp3.1\showamount.runtimeconfig.json
+C:\Users\FJ\source\repos\showamount\showamount\bin\Debug\netcoreapp3.1\showamount.runtimeconfig.dev.json
+C:\Users\FJ\source\repos\showamount\showamount\bin\Debug\netcoreapp3.1\showamount.dll
+C:\Users\FJ\source\repos\showamount\showamount\bin\Debug\netcoreapp3.1\showamount.pdb
+C:\Users\FJ\source\repos\showamount\showamount\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FJ\source\repos\showamount\showamount\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\FJ\source\repos\showamount\showamount\bin\Debug\netcoreapp3.1\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\FJ\source\repos\showamount\showamount\obj\Debug\netcoreapp3.1\showamount.dll
+C:\Users\FJ\source\repos\showamount\showamount\obj\Debug\netcoreapp3.1\showamount.pdb

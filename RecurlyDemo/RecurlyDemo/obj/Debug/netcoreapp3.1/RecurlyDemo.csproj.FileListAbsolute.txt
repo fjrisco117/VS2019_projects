@@ -1,0 +1,9 @@
+C:\Users\FJ\source\repos\RecurlyDemo\RecurlyDemo\bin\Debug\netcoreapp3.1\RecurlyDemo.exe
+C:\Users\FJ\source\repos\RecurlyDemo\RecurlyDemo\obj\Debug\netcoreapp3.1\RecurlyDemo.csprojAssemblyReference.cache
+C:\Users\FJ\source\repos\RecurlyDemo\RecurlyDemo\obj\Debug\netcoreapp3.1\RecurlyDemo.AssemblyInfoInputs.cache
+C:\Users\FJ\source\repos\RecurlyDemo\RecurlyDemo\obj\Debug\netcoreapp3.1\RecurlyDemo.AssemblyInfo.cs
+C:\Users\FJ\source\repos\RecurlyDemo\RecurlyDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FJ\source\repos\RecurlyDemo\RecurlyDemo\bin\Debug\netcoreapp3.1\Recurly.dll
+C:\Users\FJ\source\repos\RecurlyDemo\RecurlyDemo\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\FJ\source\repos\RecurlyDemo\RecurlyDemo\bin\Debug\netcoreapp3.1\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\FJ\source\repos\RecurlyDemo\RecurlyDemo\obj\Debug\netcoreapp3.1\RecurlyDemo.csproj.CopyComplete

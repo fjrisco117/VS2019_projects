@@ -1,0 +1,11 @@
+C:\Users\FJ\source\repos\AlexaLambda\AlexaLambda\bin\Debug\netcoreapp2.1\AlexaLambda.deps.json
+C:\Users\FJ\source\repos\AlexaLambda\AlexaLambda\bin\Debug\netcoreapp2.1\AlexaLambda.runtimeconfig.json
+C:\Users\FJ\source\repos\AlexaLambda\AlexaLambda\bin\Debug\netcoreapp2.1\AlexaLambda.runtimeconfig.dev.json
+C:\Users\FJ\source\repos\AlexaLambda\AlexaLambda\bin\Debug\netcoreapp2.1\AlexaLambda.dll
+C:\Users\FJ\source\repos\AlexaLambda\AlexaLambda\bin\Debug\netcoreapp2.1\AlexaLambda.pdb
+C:\Users\FJ\source\repos\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.1\AlexaLambda.csprojAssemblyReference.cache
+C:\Users\FJ\source\repos\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.1\AlexaLambda.csproj.CoreCompileInputs.cache
+C:\Users\FJ\source\repos\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.1\AlexaLambda.AssemblyInfoInputs.cache
+C:\Users\FJ\source\repos\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.1\AlexaLambda.AssemblyInfo.cs
+C:\Users\FJ\source\repos\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.1\AlexaLambda.dll
+C:\Users\FJ\source\repos\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.1\AlexaLambda.pdb

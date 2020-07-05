@@ -1,0 +1,11 @@
+C:\Users\FJ\source\repos\CSharp-Twitter-Application\Twitter-Console\bin\Debug\netcoreapp2.1\Twitter-Console.deps.json
+C:\Users\FJ\source\repos\CSharp-Twitter-Application\Twitter-Console\bin\Debug\netcoreapp2.1\Twitter-Console.runtimeconfig.json
+C:\Users\FJ\source\repos\CSharp-Twitter-Application\Twitter-Console\bin\Debug\netcoreapp2.1\Twitter-Console.runtimeconfig.dev.json
+C:\Users\FJ\source\repos\CSharp-Twitter-Application\Twitter-Console\bin\Debug\netcoreapp2.1\Twitter-Console.dll
+C:\Users\FJ\source\repos\CSharp-Twitter-Application\Twitter-Console\bin\Debug\netcoreapp2.1\Twitter-Console.pdb
+C:\Users\FJ\source\repos\CSharp-Twitter-Application\Twitter-Console\obj\Debug\netcoreapp2.1\Twitter-Console.csprojAssemblyReference.cache
+C:\Users\FJ\source\repos\CSharp-Twitter-Application\Twitter-Console\obj\Debug\netcoreapp2.1\Twitter-Console.csproj.CoreCompileInputs.cache
+C:\Users\FJ\source\repos\CSharp-Twitter-Application\Twitter-Console\obj\Debug\netcoreapp2.1\Twitter-Console.AssemblyInfoInputs.cache
+C:\Users\FJ\source\repos\CSharp-Twitter-Application\Twitter-Console\obj\Debug\netcoreapp2.1\Twitter-Console.AssemblyInfo.cs
+C:\Users\FJ\source\repos\CSharp-Twitter-Application\Twitter-Console\obj\Debug\netcoreapp2.1\Twitter-Console.dll
+C:\Users\FJ\source\repos\CSharp-Twitter-Application\Twitter-Console\obj\Debug\netcoreapp2.1\Twitter-Console.pdb
